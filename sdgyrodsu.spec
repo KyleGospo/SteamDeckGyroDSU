@@ -13,7 +13,7 @@ BuildRequires:  systemd-rpm-macros
 BuildRequires:  gcc
 BuildRequires:  gcc-c++
 BuildRequires:  ncurses-devel
-BuildRequires:  systemd-libs
+BuildRequires:  systemd-devel
 
 %global debug_package %{nil}
 
